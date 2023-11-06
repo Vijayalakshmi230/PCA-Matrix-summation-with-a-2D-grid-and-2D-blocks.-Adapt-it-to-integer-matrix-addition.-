@@ -15,6 +15,10 @@ To implement Matrix summation with 2D grids and blocks.
 9.Reset the GPU device
 ```
 ## Program
+```
+DEVELOPED BY : Vijayalakshmi Punyala
+REGISTER NO : 212221040134
+```
 Float Matrix Addition
 ```
 
